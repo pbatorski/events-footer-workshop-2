@@ -6,7 +6,8 @@ html {
 /*EVENTS STYLES*/
 
 .events {
-    width: calc(100vw - 17px);
+/*    width: calc(100vw - 17px);*/
+    width: 100vw;
     background-color: darkorange;
     height: 185vh;
     margin: 0;
@@ -102,7 +103,8 @@ html {
 
 .footer {
     background-color: #f2be90;
-    width: calc(100vw - 17px);
+    width: 100vw;
+/*    width: calc(100vw - 17px);*/
     margin: 0;
     height: 60vh;
     position: relative;
