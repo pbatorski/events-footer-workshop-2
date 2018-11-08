@@ -8,7 +8,7 @@ html {
 .events {
     width: calc(100vw - 17px);
     background-color: darkorange;
-    height: 150vh;
+    height: 185vh;
     margin: 0;
     padding: 25px;
 }
@@ -56,7 +56,7 @@ html {
     }
 
     .events {
-        height: 110vh;
+        height: 130vh;
     }
 }
 
@@ -67,7 +67,7 @@ html {
     }
 
     .events {
-        height: 115vh;
+        height: 135vh;
     }
 
     .tukan {
@@ -83,7 +83,7 @@ html {
     }
 
     .events {
-        height: 175vh;
+        height: 220vh;
     }
 
     .tukan {
@@ -104,7 +104,7 @@ html {
     background-color: #f2be90;
     width: calc(100vw - 17px);
     margin: 0;
-    height: 55vh;
+    height: 60vh;
     position: relative;
     display: flex;
     padding: 25px;
